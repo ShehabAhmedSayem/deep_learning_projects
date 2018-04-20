@@ -5,7 +5,7 @@ face_generation/data/
 
 .ipynb_checkpoints/
 
-
+.idea
 *.pyc
 *.p
 *.pkl 
