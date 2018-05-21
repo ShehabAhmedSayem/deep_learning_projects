@@ -9,6 +9,7 @@ face_generation/data/
 *.pyc
 *.p
 *.pkl 
+*.pickle
 
 */.floyd*
 .ipynb_checkpoints
