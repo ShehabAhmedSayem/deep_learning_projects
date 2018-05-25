@@ -9,3 +9,5 @@
 4.MNIST: This is the popular handwritten digit recognition from mnist dataset trained and tested using miniflow. 
 
 5.Intro-to-tensorflow: This is letter recognition neural net from notmnist dataset using tensorflow. 
+
+6.mnist_tensorflow: mnist using tensorflow.
