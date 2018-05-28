@@ -11,3 +11,5 @@
 5.Intro-to-tensorflow: This is letter recognition neural net from notmnist dataset using tensorflow. 
 
 6.mnist_tensorflow: mnist using tensorflow.
+
+7.mnist-CNN: mnist using CNN(Convolutional Neural Network)
