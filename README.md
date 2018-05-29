@@ -13,3 +13,5 @@
 6.mnist_tensorflow: mnist using tensorflow.
 
 7.mnist-CNN: mnist using CNN(Convolutional Neural Network)
+
+8.image-classification: image classification from cifar-10 dataset with cnn
