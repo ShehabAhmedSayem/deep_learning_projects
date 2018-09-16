@@ -14,6 +14,8 @@
 
 7.mnist-CNN: mnist using CNN(Convolutional Neural Network)
 
-8.image-classification: image classification from cifar-10 dataset with cnn
+8.image-classification: Image classification from cifar-10 dataset with cnn
 
-9.intro-to-rnns: implementation of character level RNN. This predicts next character and thus create a tiny literature.
+9.intro-to-rnns: Implementation of character level RNN. This predicts next character and thus create a tiny literature.
+
+10.tv-script-generation: Implementation of word level RNN. Generates a tv script of simpson. 
