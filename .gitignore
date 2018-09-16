@@ -21,6 +21,9 @@ sentiment-network/*.png
 intro-to-tflearn/*Solution.ipynb
 intro-to-tflearn/*Solutions.ipynb
 intro-to-tflearn/mnist
+intro-to-rnns/assets
+intro-to-rnns/checkpoints
+intro-to-rnns/*.ipynb_checkpoints
 __pycache__
 image-classification/*.p
 image-classification/*.data-00000-of-00001
